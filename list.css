@@ -1,0 +1,41 @@
+header {
+    margin-bottom: 60px;
+}
+
+h1 {
+    font-size: 48px;
+    color: rgb(71, 62, 62);
+    margin: 0;
+}
+#description {
+    margin: 6px 0;
+}
+a {
+    background-color: violet;
+    color: whitesmoke;
+    border-radius: 4px;
+    font-size: 20px;
+    padding: 20px 48px;
+    border: 2px solid rgb(167, 1, 78);
+    display: inline-block;
+    margin: 0;
+}
+a:hover {
+    background-color: tomato;
+    text-decoration: none;
+}
+ol {
+    color: brown;
+    width: 500px;
+    padding: 0;
+    margin: 36px auto 0 auto;
+}
+li {
+    margin: 32px;
+    list-style: none;
+    color: darkcyan;
+    background-color: turquoise;
+    padding: 16px;
+    border-radius: 6px;
+    box-shadow: 1px 5px 5px rgba(0, 0, 0, 21);
+}
